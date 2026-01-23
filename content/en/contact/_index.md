@@ -2,15 +2,38 @@
 title: "Contact"
 ---
 
-## Contact
+## Institutional contact
+
 **LANCYTT Advanced NanoFab**  
-*NanoFabrication & Electron Microscopy Platform*
+*NanoFabrication & Electron Microscopy Platform*  
+LANCYTT – CIACYT, UASLP  
+San Luis Potosí, Mexico
 
-**Location:** San Luis Potosí, Mexico  
-**Email:** (TBD)
+---
 
-If you already have a sample or project, please include:
-- sample type
-- objective
-- required technique (SEM/ESEM, lithography, nanoimprint)
-- preferred timeline
+## How to contact us
+
+For inquiries regarding:
+- services
+- collaborations
+- training
+- infrastructure availability
+
+Please include the following information in your message:
+
+1. Name and institution  
+2. Project type (service, collaboration, training)  
+3. General objective  
+4. Technique or infrastructure of interest  
+5. Approximate timeline  
+
+This allows us to process requests efficiently.
+
+---
+
+## Note
+
+Response and follow-up depend on:
+- clarity of the request
+- infrastructure availability
+- alignment with platform capabilities
