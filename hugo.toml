@@ -4,9 +4,8 @@ theme = "PaperMod"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+canonifyURLs = true
 
-relativeURLs = true
-canonifyURLs = false
 
 [languages]
   [languages.es]
