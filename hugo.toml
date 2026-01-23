@@ -5,6 +5,9 @@ defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 
+relativeURLs = true
+canonifyURLs = false
+
 [languages]
   [languages.es]
     languageName = "Español"
