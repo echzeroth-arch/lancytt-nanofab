@@ -1,0 +1,95 @@
+baseURL = "https://echzeroth-arch.github.io/lancytt-nanofab/"
+title = "LANCYTT Advanced NanoFab"
+theme = "PaperMod"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    title = "LANCYTT Advanced NanoFab"
+    contentDir = "content/es"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "LANCYTT Advanced NanoFab"
+    contentDir = "content/en"
+
+[params]
+  description = "NanoFabrication & Electron Microscopy Platform"
+  ShowLanguageSwitcher = true
+  ShowBreadCrumbs = true
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Acerca"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Infraestructura"
+    url = "/infrastructure/"
+    weight = 3
+  [[menu.main]]
+    name = "Servicios"
+    url = "/services/"
+    weight = 4
+  [[menu.main]]
+    name = "Investigación"
+    url = "/research/"
+    weight = 5
+  [[menu.main]]
+    name = "Formación"
+    url = "/training/"
+    weight = 6
+  [[menu.main]]
+    name = "Colaboraciones"
+    url = "/collaborations/"
+    weight = 7
+  [[menu.main]]
+    name = "Contacto"
+    url = "/contact/"
+    weight = 8
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.en.menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[languages.en.menu.main]]
+    name = "Infrastructure"
+    url = "/infrastructure/"
+    weight = 3
+  [[languages.en.menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 4
+  [[languages.en.menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 5
+  [[languages.en.menu.main]]
+    name = "Training"
+    url = "/training/"
+    weight = 6
+  [[languages.en.menu.main]]
+    name = "Collaborations"
+    url = "/collaborations/"
+    weight = 7
+  [[languages.en.menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 8
+
