@@ -54,3 +54,64 @@ Su misión es **fortalecer la investigación, la formación y la colaboración c
 
 📍 *San Luis Potosí, México*  
 📫 *Contacto institucional disponible en la sección Contacto*
+
+
+---
+
+## ¿Qué es LANCYTT Advanced NanoFab?
+
+Una plataforma académica especializada en **nanofabricación**, **litografía** y **microscopía electrónica avanzada**, que habilita investigación, formación y colaboración científica con rigor experimental.
+
+---
+
+## Capacidades principales
+
+### 🔬 Infraestructura
+Herramientas avanzadas para caracterización y fabricación a micro- y nano-escala.
+
+- Microscopía electrónica (SEM / ESEM)
+- Nanofabricación y litografía
+- Procesos de apoyo y preparación de muestras
+
+---
+
+### 🧪 Servicios
+Apoyo técnico especializado para proyectos académicos y tecnológicos seleccionados.
+
+- Caracterización y análisis experimental
+- Acompañamiento técnico
+- Definición de alcances y entregables
+
+---
+
+### 🎓 Formación
+Entrenamiento científico y técnico con acceso progresivo a infraestructura avanzada.
+
+- Estancias de licenciatura
+- Tesis de maestría y doctorado
+- Capacitación técnica especializada
+
+---
+
+### 🤝 Colaboraciones
+Proyectos conjuntos con grupos académicos y socios tecnológicos.
+
+- Colaboraciones nacionales e internacionales
+- Proyectos interdisciplinarios
+- Desarrollo conjunto de capacidades
+
+---
+
+## Acceso a la plataforma
+
+El acceso a la infraestructura se define mediante:
+- solicitud formal
+- evaluación técnica
+- disponibilidad operativa
+
+La prioridad se orienta a **investigación, formación y colaboración científica**.
+
+---
+
+📍 *San Luis Potosí, México*  
+📫 *Contacto institucional disponible en la sección Contacto*
