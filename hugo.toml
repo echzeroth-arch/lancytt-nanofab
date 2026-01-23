@@ -2,7 +2,7 @@ baseURL = "https://echzeroth-arch.github.io/lancytt-nanofab/"
 title = "LANCYTT Advanced NanoFab"
 theme = "PaperMod"
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 canonifyURLs = true
 
@@ -94,4 +94,5 @@ canonifyURLs = true
     name = "Contact"
     url = "/contact/"
     weight = 8
+
 
