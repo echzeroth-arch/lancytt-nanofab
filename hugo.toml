@@ -27,87 +27,70 @@ canonifyURLs = true
   ShowReadingTime = false
   ShowShareButtons = false
 
-[menu]
-  [[menu.main]]
+[languages.es.menu]
+  [[languages.es.menu.main]]
     name = "Inicio"
-    url = ""
+    url = "./"
     weight = 1
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Acerca"
     url = "about/"
     weight = 2
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Infraestructura"
     url = "infrastructure/"
     weight = 3
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Servicios"
     url = "services/"
     weight = 4
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Investigación"
     url = "research/"
     weight = 5
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Formación"
     url = "training/"
     weight = 6
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Colaboraciones"
     url = "collaborations/"
     weight = 7
-
-  [[menu.main]]
+  [[languages.es.menu.main]]
     name = "Contacto"
     url = "contact/"
     weight = 8
 
-
-[menu]
-  [[menu.main]]
-    name = "Inicio"
-    url = ""
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "./"
     weight = 1
-
-  [[menu.main]]
-    name = "Acerca"
+  [[languages.en.menu.main]]
+    name = "About"
     url = "about/"
     weight = 2
-
-  [[menu.main]]
-    name = "Infraestructura"
+  [[languages.en.menu.main]]
+    name = "Infrastructure"
     url = "infrastructure/"
     weight = 3
-
-  [[menu.main]]
-    name = "Servicios"
+  [[languages.en.menu.main]]
+    name = "Services"
     url = "services/"
     weight = 4
-
-  [[menu.main]]
-    name = "Investigación"
+  [[languages.en.menu.main]]
+    name = "Research"
     url = "research/"
     weight = 5
-
-  [[menu.main]]
-    name = "Formación"
+  [[languages.en.menu.main]]
+    name = "Training"
     url = "training/"
     weight = 6
-
-  [[menu.main]]
-    name = "Colaboraciones"
+  [[languages.en.menu.main]]
+    name = "Collaborations"
     url = "collaborations/"
     weight = 7
-
-  [[menu.main]]
-    name = "Contacto"
+  [[languages.en.menu.main]]
+    name = "Contact"
     url = "contact/"
     weight = 8
-
-
