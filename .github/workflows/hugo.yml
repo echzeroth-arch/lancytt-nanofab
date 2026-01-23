@@ -29,7 +29,8 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+  run: hugo --minify --baseURL "https://echzeroth-arch.github.io/lancytt-nanofab/"
+
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
