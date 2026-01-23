@@ -1,78 +1,57 @@
 ---
-title: "Research"
+title: "LANCYTT Advanced NanoFab"
 ---
 
-## Scientific focus
+## Nanofabrication and Electron Microscopy Platform
 
-**LANCYTT Advanced NanoFab** supports scientific research at the intersection of **nanofabrication**, **electron microscopy**, and **functional materials**, with emphasis on **physical understanding of processes** and **experimental validation**.
+**LANCYTT Advanced NanoFab** is a specialized platform for **nanofabrication**, **lithography**, and **advanced electron microscopy**, supporting **academic research**, **specialized training**, and **scientific-technological collaborations**.
 
-The platform is conceived not as a single-topic laboratory, but as an **enabling infrastructure** for diverse research directions.
-
----
-
-## Supported research areas
-
-### Nanofabrication and micro/nano-structuring
-- Definition and replication of micro- and nano-scale structures
-- Process flow development and testing
-- Integration of functional patterns
+The platform operates within **LANCYTT – CIACYT, UASLP**, as enabling infrastructure for projects requiring **experimental control**, **high-resolution characterization**, and **technical capability development**.
 
 ---
 
-### Materials and nanostructures
-- Semiconductor and functional materials
-- Fabricated and self-assembled nanostructures
-- Morphological and structural evaluation
+## Core capabilities
+
+- **Electron microscopy (SEM / ESEM)**  
+  Morphological and structural characterization at the micro- and nano-scale.
+
+- **Nanofabrication and lithography**  
+  Definition and replication of micro- and nano-scale structures.
+
+- **Advanced training**  
+  Technical and scientific training for undergraduate and graduate students.
 
 ---
 
-### Applied electron microscopy
-- Advanced morphological analysis
-- Structure–process–property correlation
-- Comparative studies and experimental validation
+## Who is it for?
+
+The platform primarily supports:
+
+- Academic and research groups  
+- Undergraduate, MSc, and PhD students  
+- Interdisciplinary projects  
+- Selected technology-oriented collaborations  
 
 ---
 
-### Photonics, devices, and functional systems
-- Structures for integrated photonics and metasurfaces
-- Micro- and nano-fabricated devices
-- Experimental support for proof-of-concept studies
+## How to engage with the platform
+
+- **Services**: technical and experimental support upon request  
+- **Training**: research stays, thesis projects, and progressive training  
+- **Research**: infrastructure support for scientific projects  
+- **Collaborations**: national and international joint projects  
+
+> Access to advanced infrastructure is granted based on technical evaluation and availability.
 
 ---
 
-## Role of the platform in research projects
+## Institutional focus
 
-**LANCYTT Advanced NanoFab** participates in research projects as:
-- experimental support infrastructure
-- advanced training environment
-- technical and scientific collaboration node
-
-Levels of involvement may range from:
-- punctual characterization
-- sustained experimental support
-- joint development of methodologies
+**LANCYTT Advanced NanoFab** is not conceived as a standard commercial service.  
+Its mission is to **strengthen research, training, and scientific collaboration** through rigorous and responsible use of advanced infrastructure.
 
 ---
 
-## Scientific output
+📍 *San Luis Potosí, Mexico*  
+📫 *Institutional contact information available in the Contact section*
 
-Projects supported by the platform may contribute to:
-- undergraduate and graduate theses
-- scientific publications
-- technical reports and methodological developments
-
-Acknowledgement and authorship are defined case by case, depending on the level of participation.
-
----
-
-## Scientific collaborations
-
-Collaborations are encouraged with:
-- national and international academic groups
-- complementary laboratories
-- interdisciplinary research initiatives
-
-Collaborations are evaluated based on:
-- technical feasibility
-- scientific alignment
-- infrastructure availability
