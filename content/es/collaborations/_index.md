@@ -1,78 +1,47 @@
 ---
-title: "Research"
+title: "Colaboraciones"
 ---
 
-## Scientific focus
+## Enfoque de colaboración
 
-**LANCYTT Advanced NanoFab** supports scientific research at the intersection of **nanofabrication**, **electron microscopy**, and **functional materials**, with emphasis on **physical understanding of processes** and **experimental validation**.
+La **LANCYTT Advanced NanoFab** promueve colaboraciones científicas y tecnológicas basadas en el **uso compartido de infraestructura**, el **intercambio de conocimiento** y el **desarrollo conjunto de capacidades experimentales**.
 
-The platform is conceived not as a single-topic laboratory, but as an **enabling infrastructure** for diverse research directions.
-
----
-
-## Supported research areas
-
-### Nanofabrication and micro/nano-structuring
-- Definition and replication of micro- and nano-scale structures
-- Process flow development and testing
-- Integration of functional patterns
+Las colaboraciones se conciben como relaciones de **beneficio mutuo**, con objetivos técnicos y científicos claramente definidos.
 
 ---
 
-### Materials and nanostructures
-- Semiconductor and functional materials
-- Fabricated and self-assembled nanostructures
-- Morphological and structural evaluation
+## Tipos de colaboración
+
+Se consideran, entre otras, las siguientes modalidades:
+
+- Colaboraciones académicas nacionales e internacionales  
+- Proyectos interdisciplinarios entre grupos de investigación  
+- Apoyo experimental a proyectos de tesis y publicaciones  
+- Colaboraciones tecnológicas seleccionadas  
 
 ---
 
-### Applied electron microscopy
-- Advanced morphological analysis
-- Structure–process–property correlation
-- Comparative studies and experimental validation
+## Alcance de la participación
+
+El grado de involucramiento de la plataforma puede incluir:
+- caracterización puntual
+- soporte experimental continuo
+- co-desarrollo de metodologías o procesos
+
+El alcance se define caso por caso, en función de la viabilidad técnica y la disponibilidad de infraestructura.
 
 ---
 
-### Photonics, devices, and functional systems
-- Structures for integrated photonics and metasurfaces
-- Micro- and nano-fabricated devices
-- Experimental support for proof-of-concept studies
+## Evaluación de propuestas
+
+Las propuestas de colaboración se evalúan considerando:
+- claridad del objetivo científico o tecnológico
+- alineación con las capacidades de la plataforma
+- factibilidad experimental
+- cronograma tentativo
 
 ---
 
-## Role of the platform in research projects
+## Reconocimiento y resultados
 
-**LANCYTT Advanced NanoFab** participates in research projects as:
-- experimental support infrastructure
-- advanced training environment
-- technical and scientific collaboration node
-
-Levels of involvement may range from:
-- punctual characterization
-- sustained experimental support
-- joint development of methodologies
-
----
-
-## Scientific output
-
-Projects supported by the platform may contribute to:
-- undergraduate and graduate theses
-- scientific publications
-- technical reports and methodological developments
-
-Acknowledgement and authorship are defined case by case, depending on the level of participation.
-
----
-
-## Scientific collaborations
-
-Collaborations are encouraged with:
-- national and international academic groups
-- complementary laboratories
-- interdisciplinary research initiatives
-
-Collaborations are evaluated based on:
-- technical feasibility
-- scientific alignment
-- infrastructure availability
+Los términos de reconocimiento, coautoría o mención institucional se establecen de acuerdo con el nivel de participación de la **LANCYTT Advanced NanoFab** en cada proyecto.
