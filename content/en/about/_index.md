@@ -2,50 +2,33 @@
 title: "About"
 ---
 
-## What is LANCYTT Advanced NanoFab?
+## LANCYTT Advanced NanoFab Platform
 
-**LANCYTT Advanced NanoFab** is a specialized platform for **nanofabrication**, **lithography**, and **advanced electron microscopy**, supporting **academic research**, **specialized training**, and **scientific-technological collaborations**.
+**LANCYTT Advanced NanoFab** is an **advanced scientific and technological infrastructure platform** dedicated to **nanofabrication**, **advanced lithography**, and **electron microscopy**, supporting **academic research**, **specialized training**, and **scientific-technological collaboration**.
 
-The platform operates within **LANCYTT – CIACYT, UASLP** (San Luis Potosí, Mexico) as enabling infrastructure for projects requiring experimental control, high-resolution characterization, and technical capability development.
-
----
-
-## Mission
-
-To strengthen research and advanced training through rigorous and responsible use of **micro/nanofabrication** and **electron microscopy** infrastructure, enabling national and international collaborations.
+Its primary role is to **enable advanced experimental capabilities**, providing a controlled environment for projects requiring **micro- and nanoscale fabrication and characterization**, under principles of technical rigor and institutional responsibility.
 
 ---
 
-## What distinguishes us
+## Mission and guiding principles
 
-- **Experimental rigor and traceability**: emphasis on reproducibility, documentation, and best practices.  
-- **Technical guidance**: support to define scope, feasibility, and realistic deliverables.  
-- **Progressive training**: level-based access (observer → operator) under safety protocols.  
-- **Enabling focus**: the platform supports diverse research lines rather than a single-topic agenda.
+The mission of **LANCYTT Advanced NanoFab** is to **strengthen research and advanced training** by promoting the **rigorous, responsible, and traceable** use of scientific infrastructure, with a strong commitment to **technical quality** and **user satisfaction**.
 
----
-
-## How we operate
-
-Access is granted through:
-1. **Short request** (objective, sample, requested technique, expected output)  
-2. **Technical evaluation** (feasibility and scope)  
-3. **Scheduling** based on availability and priority  
-4. **Execution and delivery** according to the agreed scheme
-
-Priority is generally assigned to:
-- academic and training projects  
-- scientific collaborations  
-- selected technology-oriented projects
+The platform operates as a transversal enabling resource, supporting diverse research and training activities without being restricted to a specific thematic area.
 
 ---
 
-## Scope and availability
+## General operational framework
 
-**LANCYTT Advanced NanoFab** is in an active phase of **growth and infrastructure recovery**, so specific capabilities may evolve. We recommend prior contact to confirm availability, timelines, and scope.
+The use of infrastructure is governed by **technical, regulatory, and availability criteria**, aligned with the academic and training objectives of the platform.
+
+Access conditions, scope of activities, and usage modalities are defined on a case-by-case basis, with emphasis on:
+- safe and proper equipment operation,
+- technical feasibility of activities,
+- responsible use of advanced infrastructure.
 
 ---
 
-## Contact
+## Quality and certification
 
-For service requests, training opportunities, or collaborations, please visit the **Contact** section and include the recommended minimum information to streamline follow-up.
+**LANCYTT Advanced NanoFab** operates under a **Quality Management System certified in accordance with ISO 9001:2015**, ensuring documented processes, continuous improvement, and a systematic focus on **user satisfaction**, experimental traceability, and reliability of services and activities.
