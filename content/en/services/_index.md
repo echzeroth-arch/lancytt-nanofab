@@ -2,54 +2,67 @@
 title: "Services"
 ---
 
-## General approach
+## Available services
 
-**LANCYTT Advanced NanoFab** provides specialized services in **electron microscopy**, **nanofabrication**, and **lithography**, primarily oriented toward **academic projects**, **advanced training**, and **technology-oriented collaborations**.
+**LANCYTT Advanced NanoFab** provides specialized services in **electron microscopy**, **materials analysis**, and **nanofabrication**, primarily oriented toward **academic research**, **advanced training**, and **scientific–technological collaborations**.
 
-Services are offered under a **technical guidance model**, emphasizing problem definition, experimental feasibility, and operational safety.
-
----
-
-## Electron microscopy
-
-### SEM / ESEM
-
-Characterization services for morphological and structural analysis of materials and devices.
-
-**Typical scope**
-- Surface and topographical inspection
-- Process or treatment comparison
-- Defect and failure identification
-- Micro- and nano-structure documentation
-
-**Service modes**
-- Single-session observation
-- Comparative studies
-- Support for thesis or publication results
-
-> Basic technical guidance for image interpretation is included.
+As part of the **National Laboratories Network**, selected services may be offered under institutional cost-recovery schemes, in accordance with applicable regulations.
 
 ---
 
-## Nanofabrication and lithography
+## Scanning electron microscopy (SEM / FESEM)
 
-### Electron-beam lithography
-Support for pattern definition and process testing.
+Service for morphological and structural surface characterization at micro- and nanoscale.
 
-**Possible services**
-- Design (layout) review
-- Basic parameter definition
-- Execution of critical process steps (project-dependent)
+**General capabilities:**
+- Surface morphology imaging
+- High-vacuum operation
+- Compatibility with conductive or properly prepared samples
+- Typical accelerating voltages between **1 and 30 kV**
+- Resolution down to the **nanometer scale**, depending on configuration
+
+This service is suitable for studies of materials, devices, coatings, nanostructures, and heterogeneous systems.
 
 ---
 
-### Nanoimprint lithography
-Services focused on pattern replication and prototyping.
+## Energy-dispersive X-ray spectroscopy (EDX)
 
-**Possible services**
-- Replication tests
-- Mold evaluation
-- Basic parameter tuning
+Elemental compositional analysis integrated with electron microscopy.
+
+**General capabilities:**
+- Qualitative and semi-quantitative elemental identification
+- Point analysis or region-based analysis
+- Direct integration with SEM/FESEM imaging
+- Requires samples compatible with vacuum conditions
+
+EDX analysis complements morphological studies with localized chemical information.
+
+---
+
+## Electron-beam lithography (EBL)
+
+**Nanofabrication** service for the definition of micro- and nanoscale patterns.
+
+**General capabilities:**
+- Direct-write electron-beam patterning
+- Use of electron-sensitive resists (e.g., PMMA)
+- Definition of micro- and nanoscale structures
+- Applications in research prototypes, devices, and proof-of-concept studies
+
+Electron-beam lithography is offered with an **academic and experimental focus**, and is not intended for industrial-scale production.
+
+---
+
+## Thickness measurement
+
+Thickness measurement service for planar samples.
+
+**General capabilities:**
+- Measurements in the millimeter range
+- Micrometer-level precision
+- Instrumentation with certified calibration
+
+Suitable for coatings, thin films, and structured materials.
 
 ---
 
@@ -71,14 +84,19 @@ Service requests should include the following information:
 
 1. Project objective  
 2. Sample or material type  
-3. Required technique (SEM/ESEM, lithography, nanoimprint)  
-4. Expected output (images, patterns, tests)  
+3. Required technique (SEM/FESEM, EDX, electron-beam lithography, thickness measurement)  
+4. Expected output (images, spectra, patterns, measurements)  
 5. Approximate timeline  
 
-Based on this information, we perform:
+Based on this information, we typically perform:
 - Technical evaluation
 - Scope definition
 - Tentative scheduling
+
+**Download request form (PDF):**  
+[Download: LCT-SEM-FRM-01 – SEM Service Intake Form]( /docs/LCT-SEM-FRM-01_Formato_entrada_Microscopia.pdf )
+
+This form must be completed and sent to: [lancytt.ciacyt@uaslp.mx](mailto:lancytt.ciacyt@uaslp.mx)
 
 ---
 
@@ -92,6 +110,16 @@ Priority is generally assigned as follows:
 
 ---
 
-## Important note
+## General considerations
 
-**LANCYTT Advanced NanoFab** services are not intended as standard commercial services, but as **specialized technical support** within an academic and collaborative environment.
+Service availability depends on:
+- technical compatibility of the samples,
+- operational status of the infrastructure,
+- and institutional priorities.
+
+For specific information regarding scope, timelines, or feasibility, prior contact through the **Contact** section is recommended.
+
+
+
+
+
