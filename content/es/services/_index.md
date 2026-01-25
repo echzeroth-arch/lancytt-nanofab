@@ -2,96 +2,76 @@
 title: "Servicios"
 ---
 
-## Enfoque general
+## Servicios disponibles
 
-**LANCYTT Advanced NanoFab** ofrece servicios especializados en **microscopía electrónica**, **nanofabricación** y **litografía**, orientados principalmente a **proyectos académicos**, **formación avanzada** y **colaboraciones tecnológicas**.
+**LANCYTT Advanced NanoFab** ofrece servicios especializados en **microscopía electrónica**, **análisis de materiales** y **nanofabricación**, orientados principalmente a **investigación académica**, **formación avanzada** y **colaboraciones científico-tecnológicas**.
 
-Los servicios se brindan bajo un esquema de **acompañamiento técnico**, priorizando la correcta definición del problema, la viabilidad experimental y la seguridad operativa.
-
----
-
-## Microscopía electrónica
-
-### SEM / ESEM
-
-Servicios de caracterización para análisis morfológico y estructural de materiales y dispositivos.
-
-**Alcance típico**
-- Inspección superficial y topográfica
-- Comparación entre procesos o tratamientos
-- Identificación de defectos y fallas
-- Documentación de micro- y nanoestructuras
-
-**Modalidades**
-- Observación puntual
-- Estudios comparativos
-- Apoyo a resultados de tesis o artículos
-
-> El servicio incluye **orientación técnica básica** para interpretación de imágenes.
+Como parte de la **Red de Laboratorios Nacionales**, algunos servicios pueden ofertarse mediante esquemas institucionales de recuperación de costos, de acuerdo con la normatividad aplicable.
 
 ---
 
-## Nanofabricación y litografía
+## Microscopía electrónica de barrido (SEM / FESEM)
 
-### Litografía por haz de electrones
-Apoyo en definición de patrones y pruebas de proceso.
+Servicio de caracterización morfológica y estructural de superficies en micro y nanoescala.
 
-**Servicios posibles**
-- Revisión de diseño (layout)
-- Definición de parámetros básicos
-- Ejecución de pasos críticos (según proyecto)
+**Capacidades generales:**
+- Observación de morfología superficial
+- Operación en alto vacío
+- Compatibilidad con muestras conductoras o preparadas
+- Voltajes de aceleración típicos entre **1 y 30 kV**
+- Resolución de hasta **escala nanométrica**, dependiendo de la configuración
 
----
-
-### Nanoimpresión
-Servicios orientados a replicación de patrones y prototipado.
-
-**Servicios posibles**
-- Pruebas de replicación
-- Evaluación de moldes
-- Ajuste básico de parámetros
+Este servicio es adecuado para estudios de materiales, dispositivos, recubrimientos, nanoestructuras y sistemas heterogéneos.
 
 ---
 
-## Formación y acompañamiento
+## Análisis químico por dispersión de energía de rayos X (EDX)
 
-Los servicios pueden incluir, según el caso:
-- Capacitación inicial para uso de equipo
-- Acompañamiento durante sesiones experimentales
-- Documentación de buenas prácticas
+Análisis composicional elemental integrado a microscopía electrónica.
 
-> No todos los servicios implican **operación directa por el usuario**.  
-> El esquema se define caso por caso.
+**Capacidades generales:**
+- Identificación cualitativa y semicuantitativa de elementos
+- Análisis puntual o por regiones de interés
+- Integración directa con imágenes SEM/FESEM
+- Requiere muestras compatibles con condiciones de vacío
 
----
-
-## ¿Cómo solicitar un servicio?
-
-Para iniciar un servicio, se requiere una solicitud breve con la siguiente información:
-
-1. Objetivo del proyecto  
-2. Tipo de muestra o material  
-3. Técnica requerida (SEM/ESEM, litografía, nanoimpresión)  
-4. Resultados esperados (imágenes, patrones, pruebas)  
-5. Horizonte temporal aproximado  
-
-Con base en esta información se realiza:
-- Evaluación técnica
-- Definición del alcance
-- Programación tentativa
+El análisis EDX permite complementar estudios morfológicos con información química local.
 
 ---
 
-## Prioridad de atención
+## Litografía por haz de electrones (EBL)
 
-La prioridad se asigna generalmente en el siguiente orden:
-1. Proyectos académicos internos  
-2. Tesis de licenciatura y posgrado  
-3. Colaboraciones científicas externas  
-4. Proyectos tecnológicos seleccionados  
+Servicio de **nanofabricación** para la definición de patrones en escalas micro y nanométricas.
+
+**Capacidades generales:**
+- Escritura directa por haz de electrones
+- Uso de resinas fotosensibles (p. ej. PMMA)
+- Definición de estructuras en escalas submicrométricas
+- Aplicaciones en prototipos, dispositivos de investigación y pruebas de concepto
+
+La litografía por haz de electrones se ofrece con un enfoque **académico y experimental**, no orientado a producción industrial.
 
 ---
 
-## Nota importante
+## Medición de espesor
 
-Los servicios de **LANCYTT Advanced NanoFab** no se conciben como servicios comerciales estándar, sino como **apoyo técnico especializado** dentro de un entorno académico y de colaboración.
+Servicio de medición de espesor para muestras planas.
+
+**Capacidades generales:**
+- Medición en el rango milimétrico
+- Precisión micrométrica
+- Instrumentación con calibración certificada
+
+Adecuado para recubrimientos, láminas delgadas y materiales estructurados.
+
+---
+
+## Consideraciones generales
+
+La disponibilidad de los servicios depende de:
+- compatibilidad técnica de las muestras,
+- condiciones operativas de la infraestructura,
+- y prioridades institucionales.
+
+Para información específica sobre alcances, tiempos o viabilidad, se recomienda establecer contacto previo a través de la sección **Contacto**.
+
