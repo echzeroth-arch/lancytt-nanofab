@@ -1,9 +1,242 @@
 <!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>http://localhost:1313/</title>
-    <link rel="canonical" href="http://localhost:1313/">
-    <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url=http://localhost:1313/">
-  </head>
+<html lang="es" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.154.5"><script src="/lancytt-nanofab/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=lancytt-nanofab/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>LANCYTT Advanced NanoFab</title>
+
+<meta name="description" content="NanoFabrication &amp; Electron Microscopy Platform">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/lancytt-nanofab/es/">
+<link crossorigin="anonymous" href="http://localhost:1313/lancytt-nanofab/assets/css/stylesheet.1d4ef40d5549145bd204d6949c214a79801837f6a0fc7a6f928412efa28c31ea.css" integrity="sha256-HU70DVVJFFvSBNaUnCFKeYAYN/ag/HpvkoQS76KMMeo=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/lancytt-nanofab/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/lancytt-nanofab/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/lancytt-nanofab/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/lancytt-nanofab/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/lancytt-nanofab/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/lancytt-nanofab/es/index.xml" title="rss">
+<link rel="alternate" hreflang="es" href="http://localhost:1313/lancytt-nanofab/es/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/lancytt-nanofab/en/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <div class="anf-topbar">
+  <div class="anf-topbar__inner">
+    <div class="anf-topbar__logos">
+      <a class="anf-topbar__logo" href="https://www.uaslp.mx/" target="_blank" rel="noopener">
+        <img src="http://localhost:1313/lancytt-nanofab/img/ciacyt&#43;uaslp.png" alt="UASLP">
+      </a>
+    </div>
+
+    <div class="anf-topbar__right">
+      CIACYT–UASLP • LANCYTT NanoFab
+    </div>
+  </div>
+</div>
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/lancytt-nanofab/es/" accesskey="h" title="LANCYTT Advanced NanoFab (Alt + H)">LANCYTT Advanced NanoFab</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                    <ul class="lang-switch"><li>|</li>
+                        <li>
+                            <a href="http://localhost:1313/lancytt-nanofab/en/" title="English"
+                                aria-label="English">En</a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/" title="Inicio">
+                    <span class="active">Inicio</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/about/" title="Acerca">
+                    <span>Acerca</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/infrastructure/" title="Infraestructura">
+                    <span>Infraestructura</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/services/" title="Servicios">
+                    <span>Servicios</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/research/" title="Investigación">
+                    <span>Investigación</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/training/" title="Formación">
+                    <span>Formación</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/collaborations/" title="Colaboraciones">
+                    <span>Colaboraciones</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/lancytt-nanofab/es/contact/" title="Contacto">
+                    <span>Contacto</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<div class="post-content"><h2 id="plataforma-de-nanofabricación-y-microscopía-electrónica">Plataforma de Nanofabricación y Microscopía Electrónica<a hidden class="anchor" aria-hidden="true" href="#plataforma-de-nanofabricación-y-microscopía-electrónica">#</a></h2>
+<p><strong>LANCYTT Advanced NanoFab</strong> es una plataforma especializada en <strong>nanofabricación</strong>, <strong>litografía</strong> y <strong>microscopía electrónica avanzada</strong>, orientada a <strong>investigación académica</strong>, <strong>formación especializada</strong> y <strong>colaboraciones científico-tecnológicas</strong>.</p>
+<p>Forma parte del <strong>LANCYTT – CIACYT, UASLP</strong>, y opera como un espacio de infraestructura habilitadora para proyectos que requieren <strong>control experimental</strong>, <strong>caracterización de alta resolución</strong> y <strong>desarrollo de capacidades técnicas</strong>.</p>
+<hr>
+<h2 id="capacidades-clave">Capacidades clave<a hidden class="anchor" aria-hidden="true" href="#capacidades-clave">#</a></h2>
+<ul>
+<li>
+<p><strong>Microscopía electrónica (SEM / ESEM)</strong><br>
+Caracterización morfológica y estructural en micro- y nano-escala.</p>
+</li>
+<li>
+<p><strong>Nanofabricación y litografía</strong><br>
+Definición y replicación de estructuras micro- y nano-métricas.</p>
+</li>
+<li>
+<p><strong>Formación avanzada</strong><br>
+Entrenamiento técnico y científico para estudiantes de licenciatura y posgrado.</p>
+</li>
+</ul>
+<hr>
+<h2 id="a-quién-está-dirigida">¿A quién está dirigida?<a hidden class="anchor" aria-hidden="true" href="#a-quién-está-dirigida">#</a></h2>
+<p>La plataforma atiende principalmente a:</p>
+<ul>
+<li>Grupos académicos y de investigación</li>
+<li>Estudiantes de licenciatura, maestría y doctorado</li>
+<li>Proyectos interdisciplinarios</li>
+<li>Colaboraciones tecnológicas seleccionadas</li>
+</ul>
+<hr>
+<h2 id="cómo-interactuar-con-la-plataforma">Cómo interactuar con la plataforma<a hidden class="anchor" aria-hidden="true" href="#cómo-interactuar-con-la-plataforma">#</a></h2>
+<ul>
+<li><strong>Servicios</strong>: apoyo técnico y experimental bajo solicitud</li>
+<li><strong>Formación</strong>: estancias, tesis y entrenamiento progresivo</li>
+<li><strong>Investigación</strong>: infraestructura para proyectos científicos</li>
+<li><strong>Colaboraciones</strong>: proyectos conjuntos nacionales e internacionales</li>
+</ul>
+<blockquote>
+<p>El acceso a infraestructura avanzada se define mediante evaluación técnica y disponibilidad.</p>
+</blockquote>
+<hr>
+<h2 id="enfoque-institucional">Enfoque institucional<a hidden class="anchor" aria-hidden="true" href="#enfoque-institucional">#</a></h2>
+<p><strong>LANCYTT Advanced NanoFab</strong> no opera como un servicio comercial estándar.<br>
+Su misión es <strong>fortalecer la investigación, la formación y la colaboración científica</strong>, con rigor técnico y responsabilidad institucional.</p>
+<hr>
+<p>📍 <em>San Luis Potosí, México</em><br>
+📫 <em>Contacto institucional disponible en la sección Contacto</em></p>
+
+
+</div>
+    </main>
+    <footer class="anf-footer">
+  <div class="anf-footer__inner">
+
+    <div class="anf-footer__left">
+      <div class="anf-footer__text">NanoFab LANCYTT – CIACYT</div>
+      <div class="anf-footer__text">
+        Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología<br>
+        Av. Sierra Leona No. 550, Lomas 2da Sección<br>
+        San Luis Potosí, S. L. P., C. P. 78210<br>
+        +52 (444) 826 1450 ext. 8419, 8425<br>
+        ©2026 Todos los derechos reservados
+      </div>
+    </div>
+
+    <div class="anf-footer__right">
+      CIACYT–UASLP · LANCYTT San Luis Potosí, México
+    </div>
+
+  </div>
+</footer>
+</body>
+
 </html>

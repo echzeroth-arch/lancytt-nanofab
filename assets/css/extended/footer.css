@@ -1,0 +1,44 @@
+.anf-footer {
+  background: #0B4F8A; /* mismo azul que header (ajústalo si tu header usa otro) */
+  color: #fff;
+  margin-top: 3rem;
+}
+
+.anf-footer__inner {
+  max-width: var(--main-width);
+  margin: 0 auto;
+  padding: 22px 20px;
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 22px;
+  align-items: start;
+}
+
+.anf-footer__title {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+
+.anf-footer__text {
+  line-height: 1.5;
+  opacity: 0.95;
+}
+
+.anf-footer__right {
+  text-align: right;
+  font-weight: 600;
+  opacity: 0.95;
+  line-height: 1.5;
+}
+
+/* Responsive */
+@media (max-width: 860px) {
+  .anf-footer__inner {
+    grid-template-columns: 1fr;
+  }
+  .anf-footer__right {
+    text-align: left;
+  }
+}
