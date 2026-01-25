@@ -1,0 +1,16 @@
+- id: footer_left_title
+  translation: "NanoFab | LANCYTT"
+- id: footer_left_org
+  translation: "Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología (CIACYT)"
+- id: footer_left_addr
+  translation: "Av. Sierra Leona 550, Lomas 2a-Sec"
+- id: footer_left_city
+  translation: "San Luis Potosí, S. L. P., C. P. 78210"
+- id: footer_left_phone
+  translation: "444 826 1450 ext. 8425, 8411"
+- id: footer_left_rights
+  translation: "©2026"
+- id: footer_right_title
+  translation: "CIACYT–UASLP · LANCYTT"
+- id: footer_right_city
+  translation: "San Luis Potosí, México"
