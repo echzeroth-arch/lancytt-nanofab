@@ -2,50 +2,34 @@
 title: "Acerca de"
 ---
 
-## ¿Qué es LANCYTT Advanced NanoFab?
+## LANCYTT Advanced NanoFab
 
-**LANCYTT Advanced NanoFab** es una plataforma especializada en **nanofabricación**, **litografía** y **microscopía electrónica avanzada**, orientada a **investigación académica**, **formación especializada** y **colaboraciones científico-tecnológicas**.
+**LANCYTT Advanced NanoFab** es una **unidad de infraestructura científica y tecnológica** dedicada a la **nanofabricación**, la **litografía avanzada** y la **microscopía electrónica**, orientada a apoyar **investigación académica**, **formación especializada** y **colaboraciones científico-tecnológicas**.
 
-Opera como parte de **LANCYTT – CIACYT, UASLP** (San Luis Potosí, México) y funciona como **infraestructura habilitadora** para proyectos que requieren control experimental, caracterización de alta resolución y desarrollo de capacidades técnicas.
-
----
-
-## Misión
-
-Fortalecer la investigación y la formación avanzada mediante el uso responsable y riguroso de infraestructura para **fabricación micro/nano** y **microscopía electrónica**, facilitando colaboraciones nacionales e internacionales.
+Su función principal es **habilitar capacidades experimentales avanzadas**, proporcionando un entorno controlado para el desarrollo de proyectos que requieren **fabricación y caracterización en micro y nanoescala**, bajo criterios de rigor técnico y responsabilidad institucional.
 
 ---
 
-## ¿Qué nos distingue?
+## Misión y principios
 
-- **Rigor experimental y trazabilidad**: énfasis en reproducibilidad, documentación y buenas prácticas.  
-- **Acompañamiento técnico**: soporte para definir alcances, viabilidad y entregables de forma realista.  
-- **Formación progresiva**: acceso por niveles (observador → operador), con protocolos de seguridad.  
-- **Enfoque habilitador**: la plataforma apoya múltiples líneas de investigación, sin limitarse a un solo tema.
+La misión de **LANCYTT Advanced NanoFab** es **fortalecer la investigación y la formación avanzada**, promoviendo el uso **riguroso, responsable y trazable** de infraestructura científica, con un compromiso permanente hacia la **calidad técnica** y la **satisfacción de sus usuarios**.
 
----
-
-## Cómo operamos
-
-El acceso se define mediante:
-1. **Solicitud breve** (objetivo, muestra, técnica requerida, resultados esperados)  
-2. **Evaluación técnica** (viabilidad y alcance)  
-3. **Programación** según disponibilidad y prioridad  
-4. **Ejecución y entrega** conforme al esquema acordado
-
-La prioridad se orienta principalmente a:
-- proyectos académicos y de formación  
-- colaboraciones científicas  
-- proyectos tecnológicos seleccionados
+La unidad opera bajo un enfoque habilitador y transversal, apoyando diversas líneas de investigación y formación, sin limitarse a un área temática específica.
 
 ---
 
-## Alcance y disponibilidad
+## Marco operativo general
 
-La infraestructura de **LANCYTT Advanced NanoFab** se encuentra en una etapa de **crecimiento y recuperación activa**, por lo que las capacidades específicas pueden evolucionar. Recomendamos contacto previo para confirmar disponibilidad, tiempos y alcance.
+El uso de la infraestructura se rige por **criterios técnicos, normativos y de disponibilidad**, en concordancia con los objetivos académicos y de formación de la plataforma.
+
+El acceso, los alcances y las modalidades de uso se establecen caso por caso, priorizando:
+- la seguridad y correcta operación de los equipos,
+- la viabilidad técnica de las actividades,
+- el uso responsable de infraestructura avanzada.
 
 ---
 
-## Contacto
+## Calidad y certificación
 
-Para solicitudes de servicios, formación o colaboración, visita la sección **Contacto** e incluye la información mínima recomendada para agilizar la atención.
+**LANCYTT Advanced NanoFab** opera bajo un **Sistema de Gestión de la Calidad certificado conforme a la norma ISO 9001:2015**, lo que garantiza procesos documentados, mejora continua y un enfoque sistemático hacia la **satisfacción de los usuarios**, la trazabilidad experimental y la confiabilidad de los servicios y actividades desarrolladas.
+
