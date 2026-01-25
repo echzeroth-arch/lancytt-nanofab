@@ -23,7 +23,7 @@ canonifyURLs = true
 [params]
   description = "NanoFabrication & Electron Microscopy Platform"
   ShowLanguageSwitcher = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowReadingTime = false
   ShowShareButtons = false
 
