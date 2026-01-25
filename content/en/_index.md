@@ -4,53 +4,32 @@ title: "LANCYTT Advanced NanoFab"
 
 ## Nanofabrication and Electron Microscopy Platform
 
-**LANCYTT Advanced NanoFab** is a specialized platform for **nanofabrication**, **lithography**, and **advanced electron microscopy**, supporting **academic research**, **specialized training**, and **scientific-technological collaborations**.
+**LANCYTT Advanced NanoFab** is a specialized unit focused on **nanofabrication**, **electron-beam lithography (EBL)**, and **advanced electron microscopy**, supporting **academic research**, **specialized training**, and **scientific–technological collaboration**.
 
-The platform operates within **LANCYTT – CIACYT, UASLP**, as enabling infrastructure for projects requiring **experimental control**, **high-resolution characterization**, and **technical capability development**.
-
----
-
-## Core capabilities
-
-- **Electron microscopy (SEM / ESEM)**  
-  Morphological and structural characterization at the micro- and nano-scale.
-
-- **Nanofabrication and lithography**  
-  Definition and replication of micro- and nano-scale structures.
-
-- **Advanced training**  
-  Technical and scientific training for undergraduate and graduate students.
+It operates as part of **LANCYTT**, serving as enabling infrastructure for projects requiring **micro- and nanoscale fabrication control**, **high-resolution characterization**, and **the development of advanced experimental capabilities**.
 
 ---
 
-## Who is it for?
+### What we do
 
-The platform primarily supports:
-
-- Academic and research groups  
-- Undergraduate, MSc, and PhD students  
-- Interdisciplinary projects  
-- Selected technology-oriented collaborations  
+- **Characterize** materials and nanostructures using electron microscopy (SEM / ESEM).  
+- **Define and fabricate** micro- and nanoscale structures through **EBL** and nanofabrication workflows.  
+- **Train researchers and students** through technical internships, thesis projects, and progressive hands-on training.
 
 ---
 
-## How to engage with the platform
+### Key highlights
 
-- **Services**: technical and experimental support upon request  
-- **Training**: research stays, thesis projects, and progressive training  
-- **Research**: infrastructure support for scientific projects  
-- **Collaborations**: national and international joint projects  
+**Electron microscopy (SEM / ESEM)**  
+Morphological and structural characterization at the micro- and nanoscale.
 
-> Access to advanced infrastructure is granted based on technical evaluation and availability.
+**Nanofabrication and electron-beam lithography (EBL)**  
+Pattern definition, process development, and fabrication of micro- and nanometric structures.
 
----
-
-## Institutional focus
-
-**LANCYTT Advanced NanoFab** is not conceived as a standard commercial service.  
-Its mission is to **strengthen research, training, and scientific collaboration** through rigorous and responsible use of advanced infrastructure.
+**Advanced training**  
+Technical and scientific training for undergraduate and graduate students, with emphasis on experimental rigor and best practices.
 
 ---
 
-📍 *San Luis Potosí, Mexico*  
-📫 *Institutional contact information available in the Contact section*
+> **Access and operation:** as part of the **National Laboratories Network**, selected services are offered through a **cost-recovery fee**. In addition, project access is defined through **technical evaluation** and **infrastructure availability**.
+
