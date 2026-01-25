@@ -1,12 +1,12 @@
 /* Institutional footer (LANCYTT–CIACYT) */
 .anf-footer {
-  background: #0B4F8A; /* mismo azul del header */
+  background: #0b4f9c; /* mismo azul del header */ 
   color: #fff;
   margin-top: 24px;
 
   /* tipografía similar al sitio */
   font-family: inherit;
-  font-size: 14px;       /* un poco más sobrio (header se siente más “compacto”) */
+  font-size: 15px;       /* un poco más sobrio (header se siente más “compacto”) */
   line-height: 1.65;
 }
 
