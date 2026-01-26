@@ -4,82 +4,111 @@ title: "Infrastructure"
 
 ## Overview
 
-**LANCYTT Advanced NanoFab** integrates infrastructure for **micro- and nano-scale fabrication, processing, and characterization**, with a strong focus on **advanced electron microscopy** and **nanofabrication**.
+The **LANCYTT Advanced NanoFab** infrastructure integrates capabilities for **fabrication, processing, and characterization at the micro- and nanoscale**, with a strong emphasis on **advanced electron microscopy** and **electron-beam-based nanofabrication**.
 
-The platform is designed to support **academic research**, **specialized training**, and **technology-oriented projects**, under clear operational and safety protocols.
+The platform is designed to **support academic research**, **specialized training**, and **scientific–technological projects**, under controlled operational schemes, established safety protocols, and clearly defined technical criteria.
 
 ---
 
-## Electron microscopy
+## Electron microscopy and Dual Beam systems
 
-### SEM / ESEM (Scanning Electron Microscopy)
-Capabilities for morphological, structural, and compositional-contrast analysis across a wide range of materials.
+### Helios G4 CX — Dual Beam System (FESEM / FIB)
+
+<figure>
+  <img src="/lancytt-nanofab/img/infrastructure/helios-g4cx.png"
+       alt="Helios G4 CX — Dual Beam FESEM/FIB"
+       style="max-width:900px;width:100%;display:block;margin:0 auto;">
+  <figcaption><strong>Helios G4 CX</strong> — Dual Beam FESEM/FIB system.</figcaption>
+</figure>
+
+Advanced system integrating **field-emission scanning electron microscopy (FESEM)** and a **focused ion beam (FIB)**, oriented toward high-resolution characterization, localized nanofabrication, and in-depth analysis.
+
+**General capabilities**
+- FESEM operation up to **30 kV**, with resolution on the order of **1 nm**
+- Liquid gallium focused ion beam (FIB), **5–30 kV**
+- Typical beam currents in the **pA–nA** range
+- **Cross-sectional milling** and depth-resolved analysis capabilities
+- Controlled gas injection for **localized deposition** (W, SiO₂, Pt)
+- **Ion-beam-based nanofabrication** and material removal processes
 
 **Typical applications**
-- Surface morphology and topography
-- Comparative analysis between processes or batches
-- Defect and failure inspection
-- Imaging under controlled environmental conditions (ESEM)
-
-**General features**
-- High-vacuum and variable-pressure modes
-- Secondary and backscattered electron detection
-- Support for conductive and non-conductive samples
-
-**Status**
-- Operational / under progressive recovery (equipment-dependent)
+- Advanced structural and morphological analysis
+- Defect and failure analysis
+- Cross-section preparation
+- Localized prototyping and modification of nanostructures
 
 ---
 
-## Lithography and nanofabrication
+### Inspect F50 — High-resolution FESEM
 
-### Electron-beam lithography (E-beam)
-Platform for high-resolution micro- and nano-pattern definition.
+<figure>
+  <img src="/lancytt-nanofab/img/infrastructure/inspect-f50.png"
+       alt="Inspect F50 — High-resolution FESEM"
+       style="max-width:900px;width:100%;display:block;margin:0 auto;">
+  <figcaption><strong>Inspect F50</strong> — FESEM for morphological and compositional characterization.</figcaption>
+</figure>
+
+Field-emission scanning electron microscope oriented toward **morphological characterization**, surface analysis, and support for nanofabrication and lithographic processes.
+
+**General capabilities**
+- Operation up to **30 kV**
+- Typical resolution on the order of **1–2 nm**
+- Wide magnification range (up to approximately **10⁶×**)
+- Morphological and topographical analysis
+- Integration with **EDX detector** for compositional analysis
+- Support for **electron-beam lithography** on electron-sensitive resists
 
 **Typical applications**
-- Device patterning
-- Nanostructure prototyping
-- Mask fabrication and process testing
+- Surface and nanostructure characterization
+- Fabrication process evaluation
+- Localized compositional analysis (EDX)
+- Support for academic nanofabrication workflows
 
 ---
 
-### Nanoimprint lithography
-Capability for pattern replication using nanoimprint techniques.
+## Nanofabrication and lithography
 
-**Typical applications**
-- Nanostructure replication
-- Metasurfaces and periodic patterns
-- Rapid prototyping from master molds
+<figure>
+  <img src="/lancytt-nanofab/img/infrastructure/litografia.png"
+       alt="Raith electron-beam lithography system"
+       style="max-width:900px;width:100%;display:block;margin:0 auto;">
+  <figcaption><strong>Raith system</strong> for electron-beam lithography</figcaption>
+</figure>
+
+The platform includes **electron-beam lithography** capabilities oriented toward **research and development**, academic prototyping, and proof-of-concept studies.
+
+**General scope**
+- Direct definition of micro- and nanoscale patterns
+- Use of photo- and electron-sensitive resists (e.g., PMMA)
+- Integration with electron microscopy-based characterization workflows
+
+> These capabilities are not intended for industrial-scale production, but for **experimental and academic development**.
 
 ---
 
-## Supporting processes
+## Operational status and infrastructure evolution
 
-Depending on project scope and equipment status, the platform may provide:
-- Basic sample preparation
-- Cleaning and handling processes
-- Integration with characterization workflows
+The **LANCYTT Advanced NanoFab** infrastructure is undergoing a process of **progressive recovery, consolidation, and strengthening**.  
+Specific capabilities may evolve as systems are brought online, maintained, and upgraded.
 
-> Some processes are enabled **progressively** and require prior technical evaluation.
+Prior contact is recommended to confirm:
+- technical availability,
+- experimental scope,
+- and current operational conditions.
 
 ---
 
-## Access and usage
+## Access and use of the infrastructure
 
-Infrastructure access is granted through:
-- Formal project request
-- Technical feasibility assessment
-- Scheduling based on availability
-- Compliance with safety and operational protocols
+Infrastructure use is governed by:
+- technical evaluation of proposed projects,
+- sample compatibility,
+- system availability,
+- and compliance with safety and operational protocols.
 
-Usage priority is generally assigned to:
+Usage priority is primarily oriented toward:
 1. Academic research and training projects  
 2. Scientific collaborations  
 3. Selected technology-oriented projects  
 
 ---
-
-## Availability note
-
-**LANCYTT Advanced NanoFab** is in an active phase of **growth and infrastructure recovery**.  
-Specific capabilities may evolve over time; **prior contact** is recommended to confirm current equipment status.

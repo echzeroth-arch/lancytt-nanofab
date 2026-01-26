@@ -4,73 +4,108 @@ title: "Infraestructura"
 
 ## Visión general
 
-La infraestructura de **LANCYTT Advanced NanoFab** integra capacidades de **fabricación, procesamiento y caracterización micro- y nano-escala**, con énfasis en **microscopía electrónica avanzada** y **nanofabricación**.
+La infraestructura de **LANCYTT Advanced NanoFab** integra capacidades de **fabricación, procesamiento y caracterización en micro y nanoescala**, con énfasis en **microscopía electrónica avanzada** y **nanofabricación basada en haz de electrones**.
 
-La plataforma está diseñada para **soportar investigación académica**, **formación especializada** y **proyectos tecnológicos**, bajo protocolos claros de operación y seguridad.
+La plataforma está diseñada para **soportar investigación académica**, **formación especializada** y **proyectos científico-tecnológicos**, bajo esquemas de operación controlados, protocolos de seguridad y criterios técnicos definidos.
 
 ---
 
-## Microscopía electrónica
+## Microscopía electrónica y sistemas Dual Beam
 
-### SEM / ESEM (Microscopía Electrónica de Barrido)
-Capacidad para análisis morfológico, estructural y contraste composicional en una amplia variedad de muestras.
+### Helios G4 CX — Sistema Dual Beam (FESEM / FIB)
+
+<figure>
+  <img src="/lancytt-nanofab/img/infrastructure/helios-g4cx.png"
+       alt="Helios G4 CX — Dual Beam FESEM/FIB"
+       style="max-width:900px;width:100%;display:block;margin:0 auto;">
+  <figcaption><strong>Helios G4 CX</strong> — Sistema Dual Beam FESEM/FIB.</figcaption>
+</figure>
+
+Sistema avanzado que integra **microscopía electrónica de barrido por emisión de campo (FESEM)** y **haz de iones enfocado (FIB)**, orientado a caracterización de alta resolución, nanofabricación localizada y análisis en profundidad.
+
+**Capacidades generales**
+- FESEM hasta **30 kV**, con resolución del orden de **1 nm**
+- Haz de iones de galio líquido (FIB), **5–30 kV**
+- Corrientes típicas en el rango **pA–nA**
+- Capacidades de **seccionado transversal** y análisis en profundidad
+- Inyección controlada de gases para **deposición localizada** (W, SiO₂, Pt)
+- Procesos de **nanofabricación por desbaste iónico**
 
 **Aplicaciones típicas**
-- Morfología y topografía superficial
-- Análisis comparativo entre procesos o lotes
-- Evaluación de defectos, fracturas y estructuras micro/nano
-- Observación en condiciones ambientales controladas (ESEM)
-
-**Características generales**
-- Modos de alto vacío y presión variable
-- Detección secundaria y retrodispersada
-- Soporte para muestras conductoras y no conductoras
-
-**Estado**
-- Operativo / en recuperación progresiva (según equipo)
+- Análisis estructural y morfológico avanzado
+- Estudios de defectos y fallas
+- Preparación de cortes transversales
+- Prototipado y modificación localizada de nanoestructuras
 
 ---
 
-## Litografía y nanofabricación
+### Inspect F50 — FESEM de alta resolución
 
-### Litografía por haz de electrones (E-beam lithography)
-Plataforma para definición de estructuras micro- y nano-métricas con alta resolución.
+<figure>
+  <img src="/lancytt-nanofab/img/infrastructure/inspect-f50.png"
+       alt="Inspect F50 — FESEM de alta resolución"
+       style="max-width:900px;width:100%;display:block;margin:0 auto;">
+  <figcaption><strong>Inspect F50</strong> — FESEM para caracterización morfológica y composicional.</figcaption>
+</figure>
+
+Microscopio electrónico de barrido por emisión de campo, orientado a **caracterización morfológica**, análisis superficial y soporte a procesos de nanofabricación y litografía.
+
+**Capacidades generales**
+- Operación hasta **30 kV**
+- Resolución típica del orden de **1–2 nm**
+- Amplio rango de aumentos (hasta el orden de **10⁶×**)
+- Análisis morfológico y topográfico
+- Integración con **detector EDX** para análisis composicional
+- Soporte para **litografía por haz de electrones** sobre resinas sensibles
 
 **Aplicaciones típicas**
-- Patrones para dispositivos
-- Prototipos de nanoestructuras
-- Máscaras y pruebas de proceso
+- Caracterización de superficies y nanostructuras
+- Evaluación de procesos de fabricación
+- Análisis composicional localizado (EDX)
+- Soporte a flujos de nanofabricación académica
 
 ---
 
-### Nanoimpresión (Nanoimprint Lithography)
-Capacidad para replicación de patrones mediante procesos de nanoimpresión.
+## Nanofabricación y litografía
 
-**Aplicaciones típicas**
-- Replicación de nanoestructuras
-- Metasuperficies y patrones periódicos
-- Prototipado rápido a partir de moldes
+<figure>
+  <img src="/lancytt-nanofab/img/infrastructure/litografia.png"
+       alt="Sistema Raith para grabado por haz de electrones"
+       style="max-width:900px;width:100%;display:block;margin:0 auto;">
+  <figcaption><strong>Sistema Raith</strong> para grabado por haz de electrones</figcaption>
+</figure>
+
+La plataforma cuenta con capacidades de **litografía por haz de electrones**, orientadas a **investigación y desarrollo**, prototipos académicos y estudios de prueba de concepto.
+
+
+**Alcance general**
+- Definición directa de patrones micro- y nanométricos
+- Uso de resinas fotosensibles y electron-sensibles (p. ej., PMMA)
+- Integración con flujos de caracterización por microscopía electrónica
+
+> Estas capacidades no están orientadas a producción industrial, sino a **desarrollo experimental y académico**.
 
 ---
 
-## Procesos de apoyo
+## Estado operativo y evolución de la infraestructura
 
-Dependiendo del proyecto y del estado operativo del equipo, la plataforma puede ofrecer:
-- Preparación básica de muestras
-- Procesos de limpieza y manejo
-- Integración con flujos de caracterización
+La infraestructura de **LANCYTT Advanced NanoFab** se encuentra en un proceso de **recuperación, consolidación y fortalecimiento progresivo**.  
+Las capacidades específicas pueden evolucionar conforme avanza la puesta a punto, mantenimiento y actualización de los sistemas.
 
-> Algunos procesos se habilitan de manera **progresiva** y bajo evaluación técnica previa.
+Se recomienda **contacto previo** para confirmar:
+- disponibilidad técnica,
+- alcance experimental,
+- y condiciones operativas actuales.
 
 ---
 
-## Acceso y uso
+## Acceso y uso de la infraestructura
 
-El acceso a la infraestructura se realiza mediante:
-- Solicitud formal del proyecto
-- Evaluación técnica de viabilidad
-- Programación según disponibilidad
-- Cumplimiento de protocolos de seguridad y operación
+El uso de la infraestructura se rige por:
+- evaluación técnica de los proyectos,
+- compatibilidad de muestras,
+- disponibilidad de los sistemas,
+- y cumplimiento de protocolos de seguridad y operación.
 
 La prioridad de uso se orienta principalmente a:
 1. Proyectos académicos y de formación  
@@ -79,7 +114,3 @@ La prioridad de uso se orienta principalmente a:
 
 ---
 
-## Nota sobre disponibilidad
-
-La infraestructura de **LANCYTT Advanced NanoFab** se encuentra en **crecimiento y recuperación activa**.  
-El alcance exacto de cada equipo puede variar; recomendamos **contacto previo** para confirmar capacidades específicas.

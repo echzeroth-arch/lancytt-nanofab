@@ -68,3 +68,38 @@
     text-align: left;
   }
 }
+/* Callout destacado (para links importantes como formatos PDF) */
+.anf-callout{
+  border: 1px solid rgba(0,0,0,.10);
+  border-left: 4px solid rgba(0,0,0,.25);
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin: 18px 0 24px;
+  background: rgba(0,0,0,.02);
+}
+
+.anf-callout__title{
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  letter-spacing: .2px;
+}
+
+.anf-callout--important{
+  border-left-color: #b00020;              /* rojo sobrio */
+  background: rgba(176,0,32,.06);
+}
+
+.anf-callout--important .anf-callout__title,
+.anf-callout--important .anf-callout__link{
+  color: #b00020;
+}
+
+.anf-callout__link{
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.anf-callout__note{
+  margin: 10px 0 0 0;
+  opacity: .95;
+}

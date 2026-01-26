@@ -93,10 +93,17 @@ Based on this information, we typically perform:
 - Scope definition
 - Tentative scheduling
 
-**Download request form (PDF):**  
-[Download: LCT-SEM-FRM-01 – SEM Service Intake Form]( /docs/LCT-SEM-FRM-01_Formato_entrada_Microscopia.pdf )
-
-This form must be completed and sent to: [lancytt.ciacyt@uaslp.mx](mailto:lancytt.ciacyt@uaslp.mx)
+<div class="anf-callout anf-callout--important">
+  <div class="anf-callout__title">Download request form (PDF)</div>
+  <p>
+    <a class="anf-callout__link" href="/lancytt-nanofab/docs/LCT-SEM-FRM-01_Formato_entrada_Microscopia.pdf">
+      Download: LCT-SEM-FRM-01 – SEM Service Intake Form
+    </a>
+  </p>
+  <p class="anf-callout__note">
+    Send the completed form to: <a href="mailto:lancytt.ciacyt@uaslp.mx">lancytt.ciacyt@uaslp.mx</a>
+  </p>
+</div>
 
 ---
 

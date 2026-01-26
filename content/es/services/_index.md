@@ -93,11 +93,17 @@ Con base en esta información, generalmente se realiza:
 - Definición de alcance
 - Programación tentativa
 
-**Descargar formato de solicitud (PDF):**  
-[Descargar: LCT-SEM-FRM-01 – Formato de entrada Microscopía]( /docs/LCT-SEM-FRM-01_Formato_entrada_Microscopia.pdf )
-
-Este formato debe ser llenado y enviado a:  
-[lancytt.ciacyt@uaslp.mx](mailto:lancytt.ciacyt@uaslp.mx)
+<div class="anf-callout anf-callout--important">
+  <div class="anf-callout__title"> Descargar solicitud de servicio (PDF)</div>
+  <p>
+    <a class="anf-callout__link" href="/lancytt-nanofab/docs/LCT-SEM-FRM-01_Formato_entrada_Microscopia.pdf">
+      Download: LCT-SEM-FRM-01 – SEM Service Intake Form
+    </a>
+  </p>
+  <p class="anf-callout__note">
+    Enviar solicitud a: <a href="mailto:lancytt.ciacyt@uaslp.mx">lancytt.ciacyt@uaslp.mx</a>
+  </p>
+</div>
 
 ---
 

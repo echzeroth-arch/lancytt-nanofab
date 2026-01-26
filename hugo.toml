@@ -6,6 +6,11 @@ defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 canonifyURLs = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [languages]
   [languages.es]
@@ -26,6 +31,9 @@ canonifyURLs = true
   ShowBreadCrumbs = false
   ShowReadingTime = false
   ShowShareButtons = false
+  defaultTheme = "auto" 
+  disableThemeToggle = false
+
 
 [languages.es.menu]
   [[languages.es.menu.main]]
