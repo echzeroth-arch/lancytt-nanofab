@@ -1,3 +1,4 @@
+HEAD
 
 # Hugo build output
 public/
@@ -9,6 +10,14 @@ resources/
 
 # macOS
 .DS_Store
-**/.DS_Store
+
+
+# Hugo build output
+/public/
+
+# macOS
 .DS_Store
-.DS_Store
+
+# Editor
+.vscode/
+b6f6a7a (Stop tracking Hugo public output; add .gitignore)
