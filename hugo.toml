@@ -33,6 +33,11 @@ canonifyURLs = true
   ShowShareButtons = false
   defaultTheme = "auto" 
   disableThemeToggle = false
+  [params.label]
+  text = "LANCYTT Advanced NanoFab"
+  icon = "img/logo3.png"
+  iconHeight = 100
+
 
 
 [languages.es.menu]

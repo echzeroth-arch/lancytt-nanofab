@@ -5,14 +5,24 @@
   width: 100%;
 }
 
-.anf-topbar__inner {
-  max-width: var(--main-width);
-  margin: 0 auto;
-  padding: 10px 16px;
+
+.anf-topbar{
+  position: relative;
+  z-index: 20;          /* topbar siempre encima */
+  height: 130px;         /* ajusta a gusto */
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 16px;
+}
+
+.anf-topbar__inner {
+  width: 100%;
+  max-width: 1400px;         /* ⬅️ evita que se vayan al infinito */
+  margin: 0 auto;            /* centra el contenido */
+  padding: 0 32px;           /* ⬅️ margen elegante lateral */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 28px;
 }
 
 .anf-topbar__logos {
@@ -31,6 +41,28 @@
   font-size: 0.95rem;
   opacity: 0.95;
 }
+
+/* Right logo in topbar */
+.anf-topbar__right{
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  gap: 16px;
+}
+
+/* Make logo behave like the left one */
+.anf-topbar__logo--nanofab img{
+  height: 80px;      /* ajusta 40–52 según lo veas “igual de peso” */
+  width: auto;
+  display:block;
+}
+
+.header{
+  position: relative;
+  z-index: 10;          /* debajo del topbar */
+  padding-top: 12px;    /* evita “pegado” */
+}
+
 
 @media (max-width: 680px) {
   .anf-topbar__inner {

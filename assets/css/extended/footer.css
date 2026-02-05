@@ -63,10 +63,7 @@
     border-bottom: 1px solid rgba(255,255,255,0.25);
     padding-bottom: 14px;
   }
-  .anf-footer-right{
-    padding-left: 0;
-    text-align: left;
-  }
+ 
 }
 /* Callout destacado (para links importantes como formatos PDF) */
 .anf-callout{
@@ -77,6 +74,27 @@
   margin: 18px 0 24px;
   background: rgba(0,0,0,.02);
 }
+
+.anf-footer-right{
+  padding-left: 28px;
+  text-align: center;
+  padding-right: 16px;  /* prueba 16–40px */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centra el logo real */
+}
+
+.anf-footer-mark{
+  display: block;
+  width: 160%;
+  max-width: 420px;     /* aquí mandas el tamaño en desktop */
+  height: auto;
+  margin: 10 0 10px auto; /* lo empuja a la derecha */
+}
+
+
+
+
 
 .anf-callout__title{
   font-weight: 700;

@@ -1,0 +1,22 @@
+{{ partial "footer-institutional.html" . }}
+<script>
+(function () {
+  const btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+
+  const setTheme = (t) => {
+    if (t === 'dark') document.documentElement.classList.add('dark');
+    else document.documentElement.classList.remove('dark');
+    localStorage.setItem('pref-theme', t);
+  };
+
+  // init
+  const saved = localStorage.getItem('pref-theme');
+  if (saved) setTheme(saved);
+
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.classList.contains('dark');
+    setTheme(isDark ? 'light' : 'dark');
+  });
+})();
+</script>
