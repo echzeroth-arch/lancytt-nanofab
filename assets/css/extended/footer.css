@@ -86,7 +86,7 @@
 
 .anf-footer-mark{
   display: block;
-  width: 160%;
+  width: 140%;
   max-width: 420px;     /* aquí mandas el tamaño en desktop */
   height: auto;
   margin: 10 0 10px auto; /* lo empuja a la derecha */

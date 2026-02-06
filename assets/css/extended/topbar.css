@@ -9,7 +9,7 @@
 .anf-topbar{
   position: relative;
   z-index: 20;          /* topbar siempre encima */
-  height: 130px;         /* ajusta a gusto */
+  height: 120px;         /* ajusta a gusto */
   display: flex;
   align-items: center;
 }
