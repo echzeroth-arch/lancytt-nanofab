@@ -23,7 +23,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;   /* logos a la derecha en desktop */
-  gap: 28px;
+  gap: 16px;
 }
 
 /* Contenedor de logos */
@@ -85,7 +85,7 @@
   }
 
   .anf-topbar__logo img{
-    height: 54px;              /* móvil: ajusta 48–64 si quieres */
+    height: 78px;              /* móvil: ajusta 48–64 si quieres */
   }
 
   .anf-topbar__logo--nanofab img{
