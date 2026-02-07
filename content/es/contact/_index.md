@@ -1,39 +1,41 @@
----
-title: "Contacto"
----
 
-## Contacto institucional
 
-**LANCYTT Advanced NanoFab**  
-*NanoFabrication & Electron Microscopy Platform*  
-LANCYTT – CIACYT, UASLP  
-San Luis Potosí, México
+## Contacto institucional 
 
----
+Para **solicitudes de servicios, uso de infraestructura, formación técnica o envío de muestras**, utiliza exclusivamente el canal institucional: 
 
-## ¿Cómo contactarnos?
+📧 **lancytt.ciacyt@uaslp.mx** 
 
-Para consultas sobre:
-- servicios
-- colaboraciones
-- formación
-- disponibilidad de infraestructura
+Las solicitudes deben realizarse mediante el  **formato oficial de entrada**, disponible en la sección **Servicios** del sitio. 
 
-Se recomienda enviar un mensaje breve que incluya:
 
-1. Nombre e institución  
-2. Tipo de proyecto (servicio, colaboración, formación)  
-3. Objetivo general  
-4. Técnica o infraestructura de interés  
-5. Horizonte temporal aproximado  
+> El uso de este canal permite una evaluación técnica adecuada, trazabilidad de solicitudes y una atención ordenada conforme a la disponibilidad de la infraestructura. 
 
-Esto nos permite canalizar la solicitud de manera más eficiente.
+--- 
 
----
+## Coordinación científica 
 
-## Nota
+La plataforma **LANCYTT Advanced NanoFab** se encuentra bajo la responsabilidad y coordinación de: 
 
-La respuesta y el seguimiento dependen de:
-- la claridad de la solicitud
-- la disponibilidad de infraestructura
-- la alineación con las capacidades de la plataforma
+>**Dr. Esteban Cruz Hernández**  
+Profesor Investigador  
+CIACYT/Facultad de Ciencias  
+Coordinador NanoFab LANCYTT  
+📧 *esteban.cruz@uaslp.mx*
+
+
+Este contacto está destinado a: 
+
+- propuestas de **colaboración académica**, 
+
+- discusiones **estratégicas o institucionales**, 
+
+- articulación con redes científicas, programas nacionales o internacionales. 
+
+--- 
+
+## Ubicación 
+CIACYT, Planta Baja. 
+Av. Sierra Leona No. 550, Lomas 2da Sección.  
+San Luis Potosí, S. L. P., México 
+C. P. 78210
