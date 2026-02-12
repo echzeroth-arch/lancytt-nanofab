@@ -1,4 +1,3 @@
-## Institutional contact
 
 For service requests, infrastructure access, technical training, or sample submission, please use exclusively the institutional channel:
 

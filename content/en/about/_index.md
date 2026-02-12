@@ -1,8 +1,4 @@
----
-title: "About"
----
 
-## LANCYTT Advanced NanoFab Platform
 
 **LANCYTT Advanced NanoFab** is an **advanced scientific and technological infrastructure platform** dedicated to **nanofabrication**, **advanced lithography**, and **electron microscopy**, supporting **academic research**, **specialized training**, and **scientific-technological collaboration**.
 

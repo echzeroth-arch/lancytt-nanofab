@@ -1,32 +1,26 @@
----
-title: "Collaborations"
----
+Scientific and technological collaborations are promoted based on the **shared use of infrastructure**, **knowledge exchange**, and the **joint development of experimental capabilities**.
 
-## Collaboration approach
-
-**LANCYTT Advanced NanoFab** promotes scientific and technological collaborations based on **shared infrastructure**, **knowledge exchange**, and **joint development of experimental capabilities**.
-
-Collaborations are conceived as **mutually beneficial partnerships**, with clearly defined technical and scientific objectives.
+Collaborations are conceived as **mutually beneficial relationships**, with clearly defined technical and scientific objectives.
 
 ---
 
-## Collaboration modalities
+## Types of collaboration
 
-The platform considers, among others, the following collaboration types:
+The following collaboration modalities are considered, among others:
 
 - National and international academic collaborations  
-- Interdisciplinary research projects  
-- Experimental support for thesis and publication-driven projects  
-- Selected technology-oriented collaborations  
+- Interdisciplinary projects between research groups  
+- Experimental support for thesis projects and publications  
+- Selected technological collaborations  
 
 ---
 
 ## Scope of participation
 
-Platform involvement may include:
-- punctual characterization
-- sustained experimental support
-- joint development of methodologies or processes
+The level of involvement of the platform may include:
+- targeted characterization  
+- continuous experimental support  
+- co-development of methodologies or processes  
 
 The scope is defined on a case-by-case basis, depending on technical feasibility and infrastructure availability.
 
@@ -34,14 +28,14 @@ The scope is defined on a case-by-case basis, depending on technical feasibility
 
 ## Proposal evaluation
 
-Collaboration proposals are evaluated based on:
-- clarity of scientific or technological objectives
-- alignment with platform capabilities
-- experimental feasibility
-- tentative timeline
+Collaboration proposals are evaluated considering:
+- clarity of the scientific or technological objective  
+- alignment with the platform’s capabilities  
+- experimental feasibility  
+- tentative timeline  
 
 ---
 
-## Acknowledgement and outcomes
+## Acknowledgment and outcomes
 
-Acknowledgement, co-authorship, or institutional recognition terms are defined according to the level of participation of **LANCYTT Advanced NanoFab** in each project.
+The terms of acknowledgment, co-authorship, or institutional mention are established according to the level of participation of the **LANCYTT Advanced NanoFab** in each project.

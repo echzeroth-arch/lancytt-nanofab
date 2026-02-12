@@ -1,0 +1,34 @@
+.anf-research-block{
+  display:flex;
+  gap:40px;
+  align-items:flex-start;
+  margin: 40px 0;
+}
+
+.anf-research-text{
+  flex: 1.2;
+}
+
+.anf-research-image{
+  flex: 1;
+}
+
+
+.anf-research-image img{
+  width:100%;
+  border-radius:12px;
+  box-shadow:0 8px 24px rgba(0,0,0,.12);
+}
+
+/* Responsive */
+@media (max-width: 900px){
+  .anf-research-block{
+    flex-direction:column;
+  }
+}
+
+/* Solo páginas que contienen el bloque de research */
+body:has(.anf-research-wide){
+  --main-width: 900px; /* prueba 1100–1300 */
+}
+

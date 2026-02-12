@@ -1,8 +1,4 @@
----
-title: "Formación"
----
 
-## Filosofía de formación
 
 La **LANCYTT Advanced NanoFab** es un espacio de **formación técnica y científica avanzada**, orientado a estudiantes que buscan desarrollar habilidades reales en **nanofabricación**, **microscopía electrónica** y **trabajo experimental riguroso**.
 
@@ -52,20 +48,6 @@ Dependiendo del proyecto y disponibilidad:
 
 > El acceso a equipos avanzados es **gradual** y depende del nivel de formación y desempeño.
 
----
-
-## Ruta de aprendizaje recomendada
-
-Un esquema típico de formación sigue la progresión:
-
-**Aprender → Operar → Documentar → Optimizar → Enseñar**
-
-Este enfoque asegura:
-- seguridad operativa
-- reproducibilidad
-- transferencia de conocimiento
-
----
 
 ## ¿Cómo integrarse?
 
@@ -81,9 +63,3 @@ La aceptación depende de:
 - disponibilidad de infraestructura
 - capacidad de acompañamiento técnico
 
----
-
-## Nota importante
-
-La **LANCYTT Advanced NanoFab** no ofrece cursos masivos ni certificaciones automáticas.  
-La formación es **personalizada**, **exigente** y orientada a resultados reales.

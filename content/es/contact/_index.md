@@ -1,7 +1,5 @@
 
 
-## Contacto institucional 
-
 Para **solicitudes de servicios, uso de infraestructura, formación técnica o envío de muestras**, utiliza exclusivamente el canal institucional: 
 
 📧 **lancytt.ciacyt@uaslp.mx** 

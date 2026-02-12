@@ -124,4 +124,4 @@ La disponibilidad de los servicios depende de:
 - el estado operativo de la infraestructura,
 - y las prioridades institucionales.
 
-Para información específica sobre alcances, tiempos o viabilidad, se recomienda contacto previo a través de la sección **Contacto**.
+Para información específica sobre alcances, tiempos o viabilidad, se recomienda contacto previo a través del correo <a href="mailto:lancytt.ciacyt@uaslp.mx">lancytt.ciacyt@uaslp.mx</a>

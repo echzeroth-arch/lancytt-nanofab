@@ -1,10 +1,6 @@
----
-title: "Colaboraciones"
----
 
-## Enfoque de colaboración
 
-La **LANCYTT Advanced NanoFab** promueve colaboraciones científicas y tecnológicas basadas en el **uso compartido de infraestructura**, el **intercambio de conocimiento** y el **desarrollo conjunto de capacidades experimentales**.
+Se promueve colaboraciones científicas y tecnológicas basadas en el **uso compartido de infraestructura**, el **intercambio de conocimiento** y el **desarrollo conjunto de capacidades experimentales**.
 
 Las colaboraciones se conciben como relaciones de **beneficio mutuo**, con objetivos técnicos y científicos claramente definidos.
 

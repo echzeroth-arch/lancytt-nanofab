@@ -1,15 +1,9 @@
----
-title: "Training"
----
+The **LANCYTT Advanced NanoFab** is a space for **advanced technical and scientific training**, oriented toward students seeking to develop real-world skills in **nanofabrication**, **electron microscopy**, and **rigorous experimental work**.
 
-## Training philosophy
-
-**LANCYTT Advanced NanoFab** is a platform for **advanced technical and scientific training**, aimed at students seeking to develop real skills in **nanofabrication**, **electron microscopy**, and rigorous experimental work.
-
-Training goes beyond equipment operation and includes:
-- physical understanding of processes
-- experimental best practices
-- result analysis and documentation
+Training is not limited to equipment operation, but integrates:
+- physical understanding of processes  
+- good experimental practices  
+- documentation and analysis of results  
 
 ---
 
@@ -17,73 +11,53 @@ Training goes beyond equipment operation and includes:
 
 ### Undergraduate students
 
-- Short introductory stays
-- Experimental support projects
-- Internships and professional practice
+- Short introductory stays  
+- Experimental support projects  
+- Social service and professional internships  
 
 **Recommended profile**
-- Genuine interest in experimental science
-- Responsibility and discipline
-- Willingness to learn protocols and safety rules
+- Genuine interest in experimental science  
+- Discipline and responsibility  
+- Willingness to learn protocols and safety regulations  
 
 ---
 
 ### Master’s and PhD students
 
-- Thesis projects
-- Process and methodology development
-- Advanced characterization
-- Support for scientific publications
+- Thesis projects  
+- Development of processes and methodologies  
+- Advanced characterization  
+- Support for scientific publications  
 
-**Expectation**
-Students are actively involved in:
-- experimental planning
-- controlled execution
-- critical analysis of results
+**Expectations**  
+The student actively participates in:
+- experimental planning  
+- controlled execution  
+- critical analysis of results  
 
 ---
 
 ### Specialized technical training
 
-Depending on project scope and availability:
-- Equipment operation training
-- Progressive access (observer → operator)
-- Protocol documentation
+Depending on the project and availability:
+- Equipment operation training  
+- Progressive training (observer → operator)  
+- Protocol documentation  
 
-> Access to advanced equipment is **gradual** and performance-dependent.
-
----
-
-## Recommended learning path
-
-A typical training progression follows:
-
-**Learn → Operate → Document → Optimize → Teach**
-
-This approach ensures:
-- operational safety
-- reproducibility
-- knowledge transfer
+> Access to advanced equipment is **gradual** and depends on the level of training and performance.
 
 ---
 
-## How to apply
+## How to get involved
 
-To request a training stay or project, please provide:
+To request a training stay or project, applicants are encouraged to submit:
 
-1. Academic level and program
-2. Technical or scientific interests
-3. Time availability
-4. Expected outcome (thesis, training, technical support)
+1. Academic level and program  
+2. Technical or scientific interests  
+3. Time availability  
+4. Expected objective (thesis, training, technical support)
 
 Acceptance depends on:
-- thematic alignment
-- infrastructure availability
-- technical supervision capacity
-
----
-
-## Important note
-
-**LANCYTT Advanced NanoFab** does not offer mass courses or automatic certifications.  
-Training is **personalized**, **demanding**, and focused on real outcomes.
+- thematic alignment  
+- infrastructure availability  
+- capacity for technical mentoring

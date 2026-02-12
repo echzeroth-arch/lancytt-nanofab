@@ -1,1 +1,7 @@
 <link rel="stylesheet" href="{{ "css/extended/footer.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/extended/research.css" | relURL }}">
+
+{{- /* Auto-load all CSS files in assets/css/extended/ */ -}}
+{{- range resources.Match "css/extended/*.css" -}}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- end -}}

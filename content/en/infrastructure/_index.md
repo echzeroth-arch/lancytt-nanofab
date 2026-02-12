@@ -1,8 +1,4 @@
----
-title: "Infrastructure"
----
 
-## Overview
 
 The **LANCYTT Advanced NanoFab** infrastructure integrates capabilities for **fabrication, processing, and characterization at the micro- and nanoscale**, with a strong emphasis on **advanced electron microscopy** and **electron-beam-based nanofabrication**.
 

@@ -1,35 +1,30 @@
----
-title: "LANCYTT Advanced NanoFab"
----
+The **LANCYTT Advanced NanoFab** is a specialized **platform** for **nanofabrication**, **electron-beam lithography (EBL)**, and **advanced electron microscopy**, oriented toward **high-level academic research**, **specialized technical training**, and **scientific and technological collaborations**.
 
-## Nanofabrication and Electron Microscopy Platform
-
-**LANCYTT Advanced NanoFab** is a specialized unit focused on **nanofabrication**, **electron-beam lithography (EBL)**, and **advanced electron microscopy**, supporting **academic research**, **specialized training**, and **scientific–technological collaboration**.
-
-It operates as part of **LANCYTT**, serving as enabling infrastructure for projects requiring **micro- and nanoscale fabrication control**, **high-resolution characterization**, and **the development of advanced experimental capabilities**.
+It is part of **LANCYTT** and operates as an **enabling infrastructure**, designed for projects that require **precise fabrication control at the micro- and nanoscale**, **high-resolution characterization**, and the **systematic development of experimental capabilities**.
 
 ---
 
 ### What we do
 
 - **Characterize** materials and nanostructures using electron microscopy (SEM / ESEM).  
-- **Define and fabricate** micro- and nanoscale structures through **EBL** and nanofabrication workflows.  
-- **Train researchers and students** through technical internships, thesis projects, and progressive hands-on training.
+- **Design and fabricate** micro- and nano-metric structures using **EBL** and controlled nanofabrication processes.  
+- **Train talent** through research stays, thesis projects, and progressive technical training, with a strong emphasis on experimental rigor.
 
 ---
 
-### Key highlights
+### Core capabilities
 
 **Electron microscopy (SEM / ESEM)**  
-Morphological and structural characterization at the micro- and nanoscale.
+Morphological and structural characterization at the micro- and nanoscale, applied to materials and devices.
 
 **Nanofabrication and electron-beam lithography (EBL)**  
-Pattern definition, process development, and fabrication of micro- and nanometric structures.
+Pattern definition, process development, and fabrication of micro- and nano-metric structures.
 
 **Advanced training**  
-Technical and scientific training for undergraduate and graduate students, with emphasis on experimental rigor and best practices.
+Technical and scientific training for undergraduate and graduate students, focused on good practices, experimental judgment, and progressive autonomy.
 
 ---
 
-> **Access and operation:** as part of the **National Laboratories Network**, selected services are offered through a **cost-recovery fee**. In addition, project access is defined through **technical evaluation** and **infrastructure availability**.
-
+> **Access and operation**  
+> As part of the **National Laboratory Network**, some services are offered through **cost-recovery fees**.  
+> Project support and collaborations are defined through **technical evaluation**, **project scope**, and **infrastructure availability**.

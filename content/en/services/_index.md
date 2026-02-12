@@ -1,8 +1,4 @@
----
-title: "Services"
----
 
-## Available services
 
 **LANCYTT Advanced NanoFab** provides specialized services in **electron microscopy**, **materials analysis**, and **nanofabrication**, primarily oriented toward **academic research**, **advanced training**, and **scientific–technological collaborations**.
 
@@ -125,7 +121,7 @@ Service availability depends on:
 - and institutional priorities.
 
 
-For specific information regarding scope, timelines, or feasibility, prior contact through the **Contact** section is recommended.
+For specific information regarding scope, timelines, or feasibility, prior contact through <a href="mailto:lancytt.ciacyt@uaslp.mx">lancytt.ciacyt@uaslp.mx</a> is recommended.
 
 
 
