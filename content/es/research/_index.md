@@ -61,7 +61,7 @@ El objetivo es desarrollar sistemas avanzados para la **detección de biomarcado
 </div>
 
 <div class="anf-research-image">
-  <img src="/img/research/plasmonic-nano.png" alt="Nanoestructuras plasmónicas">
+  <img src="/img/research/plasmonic-nano-V2.png" alt="Nanoestructuras plasmónicas">
 </div>
 
 </div>
